@@ -11,5 +11,7 @@ public class App
         System.out.println( "Hello World!" );
         System.out.println( "Count this as commit" );
         System.out.println( "Count this as commit" );
+        System.out.println( "Forth commit" );
+        
     }
 }
